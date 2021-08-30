@@ -1,0 +1,36 @@
+{
+  "name": "@vanaraj/angular-eventcalendar",
+  "version": "1.0.2",
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14",
+    "@angular/forms": "~11.2.10"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanaraj-designer/angular-eventcalendar.git"
+  },
+  "keywords": [
+    "angular-eventcalendar",
+    "angular-calendar",
+    "angular-calendar-scheduler",
+    "event-calendar",
+    "calendar-scheduler",
+    "ngx-calendar",
+    "ng-calendar",
+    "resposive calendar"
+  ],
+  "author": "Vanaraj",
+  "license": "MIT",
+  "main": "bundles/vanaraj-angular-eventcalendar.umd.js",
+  "module": "fesm2015/vanaraj-angular-eventcalendar.js",
+  "es2015": "fesm2015/vanaraj-angular-eventcalendar.js",
+  "esm2015": "esm2015/vanaraj-angular-eventcalendar.js",
+  "fesm2015": "fesm2015/vanaraj-angular-eventcalendar.js",
+  "typings": "vanaraj-angular-eventcalendar.d.ts",
+  "metadata": "vanaraj-angular-eventcalendar.metadata.json",
+  "sideEffects": false
+}
